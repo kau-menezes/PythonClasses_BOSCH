@@ -1,1 +1,1 @@
-Projetos e exercícios feiots na Aprendizagem da BOSCH.
+Projetos e exercícios feitos na Aprendizagem da BOSCH.
