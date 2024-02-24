@@ -1,3 +1,0 @@
-Helena, 1, 2, 3
-Adrian, 4, 5, 6
-Christian, 7, 8, 9
