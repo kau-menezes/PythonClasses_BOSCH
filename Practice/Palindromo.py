@@ -11,8 +11,6 @@ palindrome = []
 for i in range(1, len(user_word)+1):
     palindrome.append(user_word[-i])
 
-
-
 palindrome_str = "".join(palindrome)
 
 if user_word == palindrome_str:

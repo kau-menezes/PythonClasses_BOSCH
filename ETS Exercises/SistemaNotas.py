@@ -25,7 +25,7 @@ def calculo_notas(aluno):
     return nome, media, final
 
 
-with open("dados.processados.txt", "w") as arquivo_final:
+with open("./ETS Exercises/dados.processados.txt", "w") as arquivo_final:
     media0 = calculo_notas(0)
     arquivo_final.write(f"{media0[0]} - {media0[1]} - {media0[2]}\n")
     
